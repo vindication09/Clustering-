@@ -10,7 +10,7 @@ The purpose of the course is to prepare course takers to learn the basics of clu
 https://towardsdatascience.com/how-to-practice-python-with-google-colab-45fc6b7d118b
 
 ## Agenda 
-* Session 1 (Introduction to Clustering ~ Overview) 
+* Session 1 (Introduction to Clustering ~ Overview) https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Introduction%20to%20Clustering%20.ipynb
 
 * Session 2 (k means Clustering in SQL and its limitations) 
 
