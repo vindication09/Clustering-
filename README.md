@@ -14,3 +14,5 @@ https://towardsdatascience.com/how-to-practice-python-with-google-colab-45fc6b7d
 
 * Session 2 (k means Clustering Without Packages explained visually)   
 https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Introduction%20to%20Python%203%20.ipynb
+
+* Session 3 (Introduction to graphs) 
