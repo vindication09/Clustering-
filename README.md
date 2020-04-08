@@ -19,4 +19,4 @@ https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Introd
 https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Introduction%20to%20Python%2C%20Session%204.ipynb
 
 * Session 4 (First half of Chapter 3) 
-https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20session%205.ipynb
+https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20session%205%20(1).ipynb
