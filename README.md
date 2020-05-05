@@ -20,3 +20,6 @@ https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Introd
 
 * Session 4 (First half of Chapter 3) 
 https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20session%205%20(1).ipynb
+
+* Session 5 (Closing out Chapter 3) 
+https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20Session%206.ipynb
