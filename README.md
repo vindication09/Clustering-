@@ -23,3 +23,6 @@ https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%2
 
 * Session 5 (Closing out Chapter 3) 
 https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20Session%206.ipynb
+
+* Session 6 (Chapter 4)
+https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20Session%207.ipynb
