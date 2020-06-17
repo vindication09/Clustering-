@@ -28,4 +28,4 @@ https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%2
 https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20Session%207.ipynb
 
 * Session 7 (Finish clustering and start intro to modeling)
-https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20Session%208.ipynb
+https://github.com/vindication09/Clustering-/blob/master/Notebook_lessons/Data%20Science%20Session%208%20(1).ipynb
