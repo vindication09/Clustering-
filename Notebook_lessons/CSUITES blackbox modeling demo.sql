@@ -40,7 +40,7 @@ from
 	(SELECT 
 	bloomberg_id as user_id, 
 	seniority
- 	FROM [calcium-land-150922:datalake.bombora] 
+ 	FROM <BMB_TABLE> 
  	WHERE _PARTITIONTIME >= "2020-04-01 00:00:00" AND _PARTITIONTIME < "2020-06-01 00:00:00" 
  	and seniority is not null 
 	group by 1, 2) a 
@@ -53,7 +53,7 @@ join
 			(SELECT 
 			bloomberg_id as user_id, 
 			seniority
- 			FROM [calcium-land-150922:datalake.bombora] 
+ 			FROM <BMB_TABLE>  
  			WHERE _PARTITIONTIME >= "2020-04-01 00:00:00" AND _PARTITIONTIME < "2020-06-01 00:00:00" 
  			and seniority is not null
  			group by 1, 2)
@@ -92,7 +92,7 @@ from
 	select
 	a.target as target, 
 	b.value as value
-	from `media-data-science.Haro_Work.target_variable_csuites_aprmay` a 
+	from <target_variable_csuites_aprmay> a 
 
 	join 
 
@@ -100,7 +100,7 @@ from
 			SELECT 
 			userid as userid,
 			value as value 
-			FROM `media-data-science.modeling_data.firstpartyunivariates2020may` 
+			FROM <UNIVARIATE_1STpARTY__TABLE>  
 			where attribute in (
 			'Content Type Raw',
 			'Brand Raw',
@@ -115,7 +115,7 @@ from
 			SELECT 
 			userid as userid,
 			value as value 
-			FROM `media-data-science.modeling_data.firstpartyunivariates2020apr` 
+			FROM <UNIVARIATE_1STpARTY__TABLE> 
 			where attribute in (
 			'Content Type Raw',
 			'Brand Raw',
